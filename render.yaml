@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: flask-image-gallery
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: mongodb+srv://chennaicorprm:biuIvx7I7akjQx1B@cluster0.5y2ndpd.mongodb.net/VirtualTour?retryWrites=true&w=majority
+        value: your-mongo-uri-here
