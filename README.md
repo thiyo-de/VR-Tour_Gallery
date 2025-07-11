@@ -6,7 +6,7 @@ It’s not a full tour builder — instead, it enhances an existing VR tour by l
 
 🔗 **Live Preview:** [View Project](https://vrgallery.netlify.app/)
 
-![Preview Screenshot](assets/img1.png)
+![Preview Screenshot](img1.png)
 
 ---
 
