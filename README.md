@@ -4,6 +4,12 @@ This project adds an interactive **user photo upload feature** to a VR tour plat
 
 It’s not a full tour builder — instead, it enhances an existing VR tour by letting users contribute their **memories, moments, or visuals** into the immersive space.
 
+🔗 **Live Preview:** [View Project](https://vrgallery.netlify.app/)
+
+![Preview Screenshot](assets/img1.png)
+
+---
+
 ---
 
 ## 🎯 What It Does
